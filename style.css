@@ -3,6 +3,10 @@ body {
     background-color: #f0f0f0;
     margin: 20px;
     text-align: center;
+    
+    background-image: url("971.jpg");
+    background-size: 100%;
+    background-position: center center;
 }
 
 h1 {
