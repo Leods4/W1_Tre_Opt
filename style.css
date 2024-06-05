@@ -5,9 +5,9 @@ body {
     text-align: center;
     
     background-image: url("971.jpg");
-    background-size: 100%;
+    background-size: 90%;
     background-position: center center;
-    background-position-y: 10px;
+    background-position-y: -90px;
 }
 
 h1 {
