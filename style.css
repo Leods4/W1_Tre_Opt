@@ -3,15 +3,16 @@ body {
     background-color: #f0f0f0;
     margin: 20px;
     text-align: center;
-    
+
     background-image: url("971.jpg");
-    background-size: 90%;
+    background-size: 100%;
     background-position: center center;
-    background-position-y: -90px;
+    background-position-y: -120px;
 }
 
 h1 {
-    color: #333;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
 button {
@@ -34,8 +35,9 @@ button:hover {
 }
 
 #textoAlterado {
-    color: #555;
+    color: #f0f0f0;
     font-style: italic;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
 a {
@@ -45,4 +47,14 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+label {
+    color: #f0f0f0;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+p {
+    color: #f0f0f0;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
